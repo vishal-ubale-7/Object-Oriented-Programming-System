@@ -13,7 +13,7 @@ package Interface;
  {
      void eat();
  }
- class Test implements I1, I2,I3
+ class Test implements I1, I2,I3 // implements the interface I1,I2,I3
  {
      public void show()  // add the public keyword
      {
